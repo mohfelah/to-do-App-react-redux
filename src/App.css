@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+
+.title{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  line-height: 1.6;
+  color: blue;
+}
+
+.ADD{
+  margin-bottom: 1rem;
+}
+
+.inputss{
+  height: 2rem;
+  border: 1px solid blue;
+  border-radius: 1px;
+}
+.btn{
+  height: 2rem;
+  background-color: rgb(98, 98, 250);
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.listbtn{
+ display: inline-block;
+}
+.btnall{
+  margin-left: 1rem;
+  margin-right: 1rem;
+  height: 2rem;
+  width: 4rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 14px;
+  color: white;
+}
+
+.Colall{
+  background-color: rgb(4, 125, 125);
+}
+.Colnot{
+  background-color:red ;
+}
+.Coldo{
+  background-color: rgb(126, 206, 7);
+}
+
+.allto{
+  border: 1px solid black;
+  border-radius: 0.5px;
+  width: 20rem;
+  margin-left: 38rem;
+  margin-top: 0.5rem;
+  background-color: rgb(233, 215, 247);
+}
+
+.completed{
+  text-decoration: line-through;
+}
+
+.task-description{
+  margin: 8px 0;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: black;
+}
